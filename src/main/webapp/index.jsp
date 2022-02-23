@@ -9,7 +9,7 @@
 <br>
 <p>Gewoon wat random tekst:</p>
 <p>lorem ipsum dolor sit amet</p>
-
+<p>Dit is nog saai, maar de volgende lijn wordt al <b>interessanter</b></p>
 <p>Goed, het begint wat saai te worden! bezoek zeker ook de <a id="linkToSecondPage" href="tweede.jsp">andere pagina</a>!</p>
 </body>
 </html>
